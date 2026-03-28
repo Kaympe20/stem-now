@@ -1,5 +1,3 @@
-import { geolocation } from "./geolocation";
-
 enum EventType {
     hackathon = 'Hackathon',
     combatRobot = 'Combat Robotics Competition',
