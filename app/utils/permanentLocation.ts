@@ -2,6 +2,7 @@ import type { geolocation } from "./geolocation";
 
 export enum spaceType {
     makerspace = 'Makerspace',
+    frcteam = 'FRC Team',
     other = 'other',
 }
 
